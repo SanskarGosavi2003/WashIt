@@ -10,4 +10,4 @@ It is a backend project which includes an API
 
 The API return json values
 
-The api expects students roll no, floor and wing to return the student the washing machine booked and the time alloted for the booking
+The API expects students roll no, floor and wing to return the student the washing machine booked and the time alloted for the booking
