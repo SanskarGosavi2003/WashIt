@@ -19,9 +19,9 @@ def printer(request):
 
 @api_view(['PUT'])
 def addStu(request):
-    print("hello")
+    #print("hello")
     deleter(request)
-    print("Hi")
+    #print("Hi")
     serializer = Serializer_Student(data = request.data)
     if serializer.is_valid():
         serializer.save()
