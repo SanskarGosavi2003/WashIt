@@ -1,2 +1,2 @@
 # WashIt
-Go to the master repo
+Go to the master branch
